@@ -2,6 +2,3 @@
 __pycache__/
 .pytest_cache/
 *.py[cod]
-models/*.keras
-reports/*.png
-reports/*.json
